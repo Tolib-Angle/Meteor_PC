@@ -1,6 +1,6 @@
 # PublishingCenter_Meteor
 ### Author: [Tolib](https://github.com/Tolib-Angle) Date of loading: 03.06.2023
-Console applications for database administration (Client: HTML, CSS, JavaScript Server: JavaScript, Meteor, MongoDB)
+Web applications for database administration (Client: HTML, CSS, JavaScript Server: JavaScript, Meteor, MongoDB)
 
 Necessary packages to run the program: Meteor
 
