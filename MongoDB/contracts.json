@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "63a43bd9a8e3f5539f228d99"
+  },
+  "id_writer": {
+    "$oid": "63a181155bde7ebcbf5f9be7"
+  },
+  "contract_num": 27260256,
+  "date_of_cons_contract": "November 21st, 2014",
+  "term_of_the_contract": 3,
+  "validy_of_the_contract": "true",
+  "date_of_terminition_contract": "October 11th, 2016"
+},{
+  "_id": "9nkfAcS4CXoYSjNeK",
+  "contract_num": "65983327",
+  "date_of_cons_contract": "Cemtember 28st, 2017",
+  "date_of_terminition_contract": "December 2cd, 2028",
+  "id_writer": {
+    "$oid": "63a181155bde7ebcbf5f9be6"
+  },
+  "term_of_the_contract": "11",
+  "validy_of_the_contract": "true"
+},{
+  "_id": "2xjZ7chhWRprqoXod",
+  "contract_num": "64578943",
+  "date_of_cons_contract": "March 11st, 2019",
+  "date_of_terminition_contract": "Aprel 2cd, 2021",
+  "id_writer": {
+    "$oid": "63a181155bde7ebcbf5f9bef"
+  },
+  "term_of_the_contract": "2",
+  "validy_of_the_contract": "false"
+}]

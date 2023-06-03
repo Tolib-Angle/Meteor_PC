@@ -1,0 +1,37 @@
+[{
+  "_id": "dbi9revkKGiq9GDSC",
+  "title": "Do the Tutorial",
+  "url": "https://www.meteor.com/tutorials/react/creating-an-app",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671533985445"
+    }
+  }
+},{
+  "_id": "LTd35nNpkTMdu6Cmx",
+  "title": "Follow the Guide",
+  "url": "https://guide.meteor.com",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671533985483"
+    }
+  }
+},{
+  "_id": "Y8SrMN5R5rt3hcyZy",
+  "title": "Read the Docs",
+  "url": "https://docs.meteor.com",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671533985491"
+    }
+  }
+},{
+  "_id": "wfdWZGTrs4NdqXArf",
+  "title": "Discussions",
+  "url": "https://forums.meteor.com",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671533985498"
+    }
+  }
+}]

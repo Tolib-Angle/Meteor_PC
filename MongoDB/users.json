@@ -1,0 +1,103 @@
+[{
+  "_id": "wtGwNuj3arph7DBmK",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671782687485"
+    }
+  },
+  "services": {
+    "password": {
+      "bcrypt": "$2b$10$rrmjzCP.J4/hUOmQonMwheATgjNqOAlHbpqi/MC8krrvuG6VgIvM6"
+    },
+    "resume": {
+      "loginTokens": [
+        {
+          "when": {
+            "$date": {
+              "$numberLong": "1671813796965"
+            }
+          },
+          "hashedToken": "G1Ii7amBsQUvblgVahj+8B6DjKwR8AQm+1N8jvphS4U="
+        },
+        {
+          "when": {
+            "$date": {
+              "$numberLong": "1671937857359"
+            }
+          },
+          "hashedToken": "BEEvs2E2SpZ9YBys7WNZPkBI4r4uHy2fC1CpfBrFIWI="
+        },
+        {
+          "when": {
+            "$date": {
+              "$numberLong": "1671937858811"
+            }
+          },
+          "hashedToken": "xEZ2sV1WOQQGjxoRLFjJxI6ZpS1IZdGsfCOdYOt1BCs="
+        },
+        {
+          "when": {
+            "$date": {
+              "$numberLong": "1672036044424"
+            }
+          },
+          "hashedToken": "sGuHXXbsy1OJ3DatyyZcFOZOc//AVj1U12y5C2f5nSQ="
+        },
+        {
+          "when": {
+            "$date": {
+              "$numberLong": "1672036049827"
+            }
+          },
+          "hashedToken": "YH6L0Eukp1dPDmh3WaSPHuL6nFVhYXTpc7MGfScCBBE="
+        },
+        {
+          "when": {
+            "$date": {
+              "$numberLong": "1672036058512"
+            }
+          },
+          "hashedToken": "QvYcQeTOhBYM4sPURd6PpaozaUdaFRxRf38XWXq9xwY="
+        },
+        {
+          "when": {
+            "$date": {
+              "$numberLong": "1672147470386"
+            }
+          },
+          "hashedToken": "YBOX8a/vELWZuRUodozR/mphEhlNvA5zqJ2dvvgoWZ8="
+        }
+      ]
+    }
+  },
+  "username": "admin"
+},{
+  "_id": "mrPoexGiuCNkAHWWE",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671782796464"
+    }
+  },
+  "services": {
+    "password": {
+      "bcrypt": "$2b$10$YI829An.Bwp7mZkfpy5N9.tZxrul875kXFmJ714Pi4./M8gc1VADG"
+    },
+    "resume": {
+      "loginTokens": []
+    }
+  },
+  "username": "user"
+},{
+  "_id": "KD5uCojJwFMwQFFSv",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671813684928"
+    }
+  },
+  "services": {
+    "password": {
+      "bcrypt": "$2b$10$rAoiemvwLxf3ZMm4VeEWeeZaZVXq49qHQGZ2ix0lZCytxjrjDIYm6"
+    }
+  },
+  "username": "test_user"
+}]

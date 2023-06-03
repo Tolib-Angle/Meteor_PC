@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "63a54bf15ea8d9822b73476a"
+  },
+  "id_customer": {
+    "$oid": "63a180c95bde7ebcbf5f9be1"
+  },
+  "order_number": "14416216",
+  "date_of_receipt_order": "July 6th, 2023",
+  "order_compiletion_date": "November 18th, 2025",
+  "id_book": {
+    "$oid": "63a52cf25ea8d9822b734769"
+  },
+  "numbers_of_orders": "56982"
+}]

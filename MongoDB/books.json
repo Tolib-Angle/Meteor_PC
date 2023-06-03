@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "63a52cf25ea8d9822b734769"
+  },
+  "cepher_of_the_book": 43630462,
+  "id_writers": [
+    {
+      "$oid": "63a181155bde7ebcbf5f9be8"
+    },
+    {
+      "$oid": "63a181155bde7ebcbf5f9beb"
+    },
+    {
+      "$oid": "63a181155bde7ebcbf5f9bef"
+    }
+  ],
+  "name": "Suspendisse Inc.",
+  "title": "Customer Service",
+  "circulation": 1665,
+  "release_date": "November 13th, 2006",
+  "cost_price": 8367.53,
+  "sale_price": 13057.68,
+  "fee": 1712.54
+}]
